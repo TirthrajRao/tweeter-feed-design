@@ -1,0 +1,45 @@
+{
+  "name": "my-app1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.0.0",
+    "@material-ui/icons": "^4.0.0",
+    "auth0-js": "^9.10.3",
+    "axios": "^0.18.0",
+    "history": "^4.9.0",
+    "material-auto-rotating-carousel": "^3.0.1",
+    "react": "^16.8.6",
+    "react-burger-menu": "^2.6.10",
+    "react-dom": "^16.8.6",
+    "react-responsive-carousel": "^3.1.49",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^3.0.1",
+    "react-social-login": "^3.4.4",
+    "react-styleguidist": "^9.0.9",
+    "react-swipeable-views": "^0.13.3",
+    "react-twitter-auth": "0.0.13",
+    "redux": "^4.0.1",
+    "video-react": "^0.13.7",
+    "vue-axios": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

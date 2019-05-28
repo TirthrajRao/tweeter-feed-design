@@ -1,0 +1,19 @@
+
+button {
+    background-color: #00aced;
+    border: none;
+    padding: 18px;
+    font-size: 20px;
+    color: white;
+    border-radius: 41px;
+    outline: none;
+    width: 500px;
+}
+svg{
+	color: white!important;
+}
+.signup_bg{
+  background-color:lightcyan;
+  text-align: center;
+  padding: 450px;
+ }

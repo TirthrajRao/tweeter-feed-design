@@ -1,0 +1,7 @@
+.tweet_class{
+	width: 600px;
+	border: 1px solid lightgray;
+	border-radius: 10px;
+	padding: 20px;
+	margin: auto;
+}
